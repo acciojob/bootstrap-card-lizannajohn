@@ -1,0 +1,4 @@
+{
+    "testRepo": "bootstrap-card-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
